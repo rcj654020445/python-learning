@@ -1,6 +1,7 @@
 '''
 变量可以指向函数
 '''
+
 import builtins
 
 f=abs

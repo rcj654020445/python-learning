@@ -26,3 +26,4 @@ f1, f2, f3 = count();
 print f1()#9
 print f2()#9
 print f3()#9
+
